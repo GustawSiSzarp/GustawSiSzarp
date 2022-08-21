@@ -1,4 +1,4 @@
 - 👋 Hi guys I'm Gustaw
-- 👀 I’m interested in finding beck-end, C# oriented junior job.
+- 👀 I’m interested in finding back-end, C# oriented junior job.
 - 🌱 I’m currently learning Everything about C#.
 - 📫 You can reach me via mail "type.gustaw@gmail.com".
